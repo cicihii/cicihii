@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cici</h1>
 <h3 align="center">A gamer and CS student ♥ </h3>
 
- <div align=”center”> ![Alt text](https://i.pinimg.com/originals/5a/34/4a/5a344a7d5b5df196eb1822d8dbb60d4c.gif) 
- </div>
+![Alt text](https://i.pinimg.com/originals/5a/34/4a/5a344a7d5b5df196eb1822d8dbb60d4c.gif) 
+
 
 - 🌱 I’m currently learning **Python and C++**
 
