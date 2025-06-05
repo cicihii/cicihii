@@ -4,11 +4,11 @@
 ![Alt text](https://i.pinimg.com/originals/5a/34/4a/5a344a7d5b5df196eb1822d8dbb60d4c.gif) 
 
 
-- 🌱 I’m currently learning **Python and C++**
+- 🌱 I’m currently learning **Godot Engine**
 
 - 💬 Ask me about **video games, art, and game design!**
 
-- 📫 How to reach me **cicihii719@gmail.com**
+- 📫 How to reach me: **cicihii719@gmail.com**
 
 - ⚡ Fun fact **I love plants, Pokemon, Yu-Gi-Oh, Sonic, and anime!**
 
